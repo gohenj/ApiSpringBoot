@@ -28,7 +28,7 @@ Para compilar e executar esta aplicação, você precisará ter o seguinte softw
     * `🖌️` *Recomendação:* [Gluon Scene Builder para Java 17+](https://gluonhq.com/products/scene-builder/).
 * **Git:** Para clonar o repositório.
 
-**⚠️ Importante:** Para que o cliente desktop funcione, a **[API do backend](https://github.com/gohenj/main/lista-tarefas-api-main)** **precisa estar em execução**.
+**⚠️ Importante:** Para que o cliente desktop funcione, a **[API do backend](https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-api-main)** **precisa estar em execução**.
 
 ---
 
@@ -40,4 +40,4 @@ Siga estes passos simples para rodar a aplicação desktop e começar a usar!
 Se você ainda não o fez, clone o repositório que contém os três projetos.
 
 ```bash
-git clone [https://github.com/gohenj/main/lista-tarefas-desktop-main.git](https://github.com/gohenj/main/lista-tarefas-desktop-main.git)
+git clone [https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-desktop-main.git](https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-desktop-main.git)
