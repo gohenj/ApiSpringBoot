@@ -1,27 +1,59 @@
-# Frontend Web (Angular) - Projeto Lista de Tarefas
+# ✨ Frontend Web (Angular) - Projeto Lista de Tarefas
 
-Este repositório contém o cliente web para a aplicação de Lista de Tarefas. A interface foi construída com Angular e consome os dados da API REST central.
-
-**Importante:** A API backend precisa estar em execução para que esta aplicação funcione.
-
-- **Link para a API Backend:** `https://github.com/RafaelSilvaGomes/lista-tarefas-api`
+Seja bem-vindo ao coração visual do nosso projeto! Este repositório é o lar do cliente web para a nossa super **Lista de Tarefas**. A interface foi construída com o poder do **Angular** e se conecta perfeitamente à nossa API REST central, transformando dados em uma experiência de usuário incrível!
 
 ---
 
-### Tecnologias Utilizadas
--   Angular
--   TypeScript
--   HTML / CSS
+### 🚨 Atenção:
 
-### Como Executar
-1.  **Pré-requisitos:**
-    -   Node.js e Angular CLI instalados.
-    -   A [API Backend](https://github.com/RafaelSilvaGomes/lista-tarefas-api) deve estar rodando.
-2.  Clone este repositório: `git clone https://github.com/RafaelSilvaGomes/lista-tarefas-web.git`
-3.  Navegue até a pasta do projeto: `cd lista-tarefas-web`
-4.  Instale as dependências: `npm install`
-5.  Execute a aplicação: `ng serve --open`
-6.  A aplicação estará disponível em `http://localhost:4200`.
+Para que a mágica aconteça, a **API Backend precisa estar em execução**!
+- **Link para a API Backend:** `https://github.com/Gohenj/lista-tarefas-api`
 
 ---
-**Autor:** Rafael Silva Gomes
+
+### 🛠️ Tecnologias de Ponta
+
+Aqui está a stack que faz essa belezinha funcionar:
+
+* `🅰️` **Angular:** Nosso framework front-end de elite.
+* `🟦` **TypeScript:** Linguagem que traz segurança e organização ao nosso código.
+* `🎨` **HTML / CSS:** A base de toda a interface, desenhada com carinho.
+
+---
+
+### 🚀 Começando a Rodar
+
+Pronto para ver o projeto em ação? Siga estes passos e voe alto!
+
+#### Pré-requisitos
+* Ter o **Node.js** e o **Angular CLI** instalados.
+* A [API Backend](https://github.com/Gohenj/lista-tarefas-api) precisa estar rodando na porta `8080`.
+
+#### Instalação
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/Gohenj/lista-tarefas-web.git](https://github.com/Gohenj/lista-tarefas-web.git)
+    ```
+2.  **Navegue até a pasta:**
+    ```bash
+    cd lista-tarefas-web
+    ```
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+4.  **Execute a aplicação:**
+    ```bash
+    ng serve --open
+    ```
+5.  **Pronto!** O app estará disponível no seu navegador em `http://localhost:4200`. 🎉
+
+---
+### ✍️ Conecte-se com o Autor
+
+Este projeto foi uma criação de:
+
+* **Gustavo Mendonça**
+
+---
+
