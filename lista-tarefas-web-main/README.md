@@ -7,7 +7,7 @@ Seja bem-vindo ao coração visual do nosso projeto! Este repositório é o lar 
 ### 🚨 Atenção:
 
 Para que a mágica aconteça, a **API Backend precisa estar em execução**!
-- **Link para a API Backend:** `https://github.com/Gohenj/lista-tarefas-api`
+- **Link para a API Backend:** `https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-api-main`
 
 ---
 
@@ -27,16 +27,16 @@ Pronto para ver o projeto em ação? Siga estes passos e voe alto!
 
 #### Pré-requisitos
 * Ter o **Node.js** e o **Angular CLI** instalados.
-* A [API Backend](https://github.com/Gohenj/lista-tarefas-api) precisa estar rodando na porta `8080`.
+* A [API Backend](https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-api-main) precisa estar rodando na porta `8080`.
 
 #### Instalação
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Gohenj/lista-tarefas-web.git](https://github.com/Gohenj/lista-tarefas-web.git)
+    git clone [https://github.com/gohenj/main/lista-tarefas-web-main.git](https://github.com/gohenj/main/lista-tarefas-web-main.git)
     ```
 2.  **Navegue até a pasta:**
     ```bash
-    cd lista-tarefas-web
+    cd lista-tarefas-web-main
     ```
 3.  **Instale as dependências:**
     ```bash
