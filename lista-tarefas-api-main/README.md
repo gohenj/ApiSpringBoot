@@ -15,11 +15,11 @@ O projeto é construído sobre uma arquitetura de microsserviços **desacoplada*
 
 * **2. Frontend Web:**
     * `🌐` O cliente web, feito com **Angular**, para uma experiência de usuário moderna e responsiva.
-    * Repositório: `https://github.com/gohenj/main/lista-tarefas-web-main`
+    * Repositório: `https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-web-main`
 
 * **3. Frontend Desktop:**
     * `🖥️` O cliente desktop, criado com **JavaFX**, oferecendo uma aplicação nativa e robusta.
-    * Repositório: `https://github.com/gohenj/main/lista-tarefas-desktop-main`
+    * Repositório: `https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-desktop-main`
 
 ---
 
@@ -45,7 +45,7 @@ Siga estes passos simples para rodar a API em seu ambiente de desenvolvimento lo
 #### Instalação
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/gohenj/main/lista-tarefas-api-main.git](https://github.com/gohenj/lista-tarefas-api-main.git)
+    git clone [https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-api-main.git](https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-api-main.git)
     ```
 2.  **Abra o projeto:**
     * Abra a pasta do projeto em sua IDE favorita (VS Code, IntelliJ, etc.).
