@@ -32,7 +32,7 @@ Pronto para ver o projeto em ação? Siga estes passos e voe alto!
 #### Instalação
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/gohenj/main/lista-tarefas-web-main.git](https://github.com/gohenj/main/lista-tarefas-web-main.git)
+    git clone [https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-web-main.git](https://github.com/gohenj/ApiSpringBoot/tree/main/lista-tarefas-web-main.git)
     ```
 2.  **Navegue até a pasta:**
     ```bash
